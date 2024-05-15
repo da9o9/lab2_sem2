@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
-
+//proverka
 class Vector {
     double* elements;
     int size;
